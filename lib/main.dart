@@ -15,7 +15,7 @@ void main() {
     return sum;
   }
 
-  int value = multipleNumber(20);
+  int value = multipleNumber(15);
   print(value);
 }
 
